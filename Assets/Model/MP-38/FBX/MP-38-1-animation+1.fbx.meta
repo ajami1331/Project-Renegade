@@ -1,0 +1,379 @@
+fileFormatVersion: 2
+guid: eb6a0b12e9be30f429b177436fb7847b
+timeCreated: 1497896020
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aim
+    100002: Armature
+    100004: bicep.L
+    100006: bicep.L.001
+    100008: BulleteProcessor
+    100010: Hand
+    100012: Handle
+    100014: Index.Majhkhan.L
+    100016: Index.Majhkhan.L.001
+    100018: Index.tol.L
+    100020: Index.tol.L.001
+    100022: Indexup.L
+    100024: Indexup.L.001
+    100026: Indexup.L.001_end
+    100028: Indexup.L.001_end_end
+    100030: Indexup.L_end
+    100032: Indexup.L_end_end
+    100034: JuraDown.L
+    100036: JuraDown.L.001
+    100038: JuraMiddle.L
+    100040: JuraMiddle.L.001
+    100042: JuraUp.L
+    100044: JuraUp.L.001
+    100046: JuraUp.L.001_end
+    100048: JuraUp.L.001_end_end
+    100050: JuraUp.L_end
+    100052: JuraUp.L_end_end
+    100054: kid
+    100056: MagazineHolder
+    100058: Magzine
+    100060: //RootNode
+    100062: Muzzle
+    100064: MuzzleHolder
+    100066: Palmmid.L
+    100068: Palmmid.L.001
+    100070: PalmUp.L
+    100072: PalmUp.L.001
+    100074: Reloder
+    100076: Shoulder pick
+    100078: ThambD.L
+    100080: ThambD.L.001
+    100082: ThmbU.L
+    100084: ThmbU.L.001
+    100086: ThmbU.L.001_end
+    100088: ThmbU.L.001_end_end
+    100090: ThmbU.L_end
+    100092: ThmbU.L_end_end
+    100094: Triger
+    100096: UBicep.L
+    100098: UBicep.L.001
+    400000: Aim
+    400002: Armature
+    400004: bicep.L
+    400006: bicep.L.001
+    400008: BulleteProcessor
+    400010: Hand
+    400012: Handle
+    400014: Index.Majhkhan.L
+    400016: Index.Majhkhan.L.001
+    400018: Index.tol.L
+    400020: Index.tol.L.001
+    400022: Indexup.L
+    400024: Indexup.L.001
+    400026: Indexup.L.001_end
+    400028: Indexup.L.001_end_end
+    400030: Indexup.L_end
+    400032: Indexup.L_end_end
+    400034: JuraDown.L
+    400036: JuraDown.L.001
+    400038: JuraMiddle.L
+    400040: JuraMiddle.L.001
+    400042: JuraUp.L
+    400044: JuraUp.L.001
+    400046: JuraUp.L.001_end
+    400048: JuraUp.L.001_end_end
+    400050: JuraUp.L_end
+    400052: JuraUp.L_end_end
+    400054: kid
+    400056: MagazineHolder
+    400058: Magzine
+    400060: //RootNode
+    400062: Muzzle
+    400064: MuzzleHolder
+    400066: Palmmid.L
+    400068: Palmmid.L.001
+    400070: PalmUp.L
+    400072: PalmUp.L.001
+    400074: Reloder
+    400076: Shoulder pick
+    400078: ThambD.L
+    400080: ThambD.L.001
+    400082: ThmbU.L
+    400084: ThmbU.L.001
+    400086: ThmbU.L.001_end
+    400088: ThmbU.L.001_end_end
+    400090: ThmbU.L_end
+    400092: ThmbU.L_end_end
+    400094: Triger
+    400096: UBicep.L
+    400098: UBicep.L.001
+    2300000: Aim
+    2300002: BulleteProcessor
+    2300004: Hand
+    2300006: Handle
+    2300008: MagazineHolder
+    2300010: Magzine
+    2300012: Muzzle
+    2300014: MuzzleHolder
+    2300016: Reloder
+    2300018: Shoulder pick
+    2300020: Triger
+    3300000: Aim
+    3300002: BulleteProcessor
+    3300004: Hand
+    3300006: Handle
+    3300008: MagazineHolder
+    3300010: Magzine
+    3300012: Muzzle
+    3300014: MuzzleHolder
+    3300016: Reloder
+    3300018: Shoulder pick
+    3300020: Triger
+    4300000: kid
+    4300002: BulleteProcessor
+    4300004: Reloder
+    4300006: Aim
+    4300008: Muzzle
+    4300010: MuzzleHolder
+    4300012: MagazineHolder
+    4300014: Shoulder pick
+    4300016: Hand
+    4300018: Triger
+    4300020: Handle
+    4300022: Magzine
+    7400000: Armature|AimAction
+    7400002: Armature|ArmatureAction
+    7400004: Armature|BulleteProcessorAction.005
+    7400006: Armature|HandAction
+    7400008: Armature|HandleAction
+    7400010: Armature|kidAction
+    7400012: Armature|MagazineHolderAction
+    7400014: Armature|MagzineAction
+    7400016: Armature|MuzzleAction
+    7400018: Armature|MuzzleHolderAction
+    7400020: Armature|ReloderAction
+    7400022: Armature|ReloderAction.001
+    7400024: Armature|Shoulder pickAction
+    7400026: Armature|TrigerAction
+    7400028: BulleteProcessor|AimAction
+    7400030: BulleteProcessor|ArmatureAction
+    7400032: BulleteProcessor|BulleteProcessorAction.005
+    7400034: BulleteProcessor|HandAction
+    7400036: BulleteProcessor|HandleAction
+    7400038: BulleteProcessor|kidAction
+    7400040: BulleteProcessor|MagazineHolderAction
+    7400042: BulleteProcessor|MagzineAction
+    7400044: BulleteProcessor|MuzzleAction
+    7400046: BulleteProcessor|MuzzleHolderAction
+    7400048: BulleteProcessor|ReloderAction
+    7400050: BulleteProcessor|ReloderAction.001
+    7400052: BulleteProcessor|Shoulder pickAction
+    7400054: BulleteProcessor|TrigerAction
+    7400056: Reloder|AimAction
+    7400058: Reloder|ArmatureAction
+    7400060: Reloder|BulleteProcessorAction.005
+    7400062: Reloder|HandAction
+    7400064: Reloder|HandleAction
+    7400066: Reloder|kidAction
+    7400068: Reloder|MagazineHolderAction
+    7400070: Reloder|MagzineAction
+    7400072: Reloder|MuzzleAction
+    7400074: Reloder|MuzzleHolderAction
+    7400076: Reloder|ReloderAction
+    7400078: Reloder|ReloderAction.001
+    7400080: Reloder|Shoulder pickAction
+    7400082: Reloder|TrigerAction
+    7400084: Aim|AimAction
+    7400086: Aim|ArmatureAction
+    7400088: Aim|BulleteProcessorAction.005
+    7400090: Aim|HandAction
+    7400092: Aim|HandleAction
+    7400094: Aim|kidAction
+    7400096: Aim|MagazineHolderAction
+    7400098: Aim|MagzineAction
+    7400100: Aim|MuzzleAction
+    7400102: Aim|MuzzleHolderAction
+    7400104: Aim|ReloderAction
+    7400106: Aim|ReloderAction.001
+    7400108: Aim|Shoulder pickAction
+    7400110: Aim|TrigerAction
+    7400112: Muzzle|AimAction
+    7400114: Muzzle|ArmatureAction
+    7400116: Muzzle|BulleteProcessorAction.005
+    7400118: Muzzle|HandAction
+    7400120: Muzzle|HandleAction
+    7400122: Muzzle|kidAction
+    7400124: Muzzle|MagazineHolderAction
+    7400126: Muzzle|MagzineAction
+    7400128: Muzzle|MuzzleAction
+    7400130: Muzzle|MuzzleHolderAction
+    7400132: Muzzle|ReloderAction
+    7400134: Muzzle|ReloderAction.001
+    7400136: Muzzle|Shoulder pickAction
+    7400138: Muzzle|TrigerAction
+    7400140: MuzzleHolder|AimAction
+    7400142: MuzzleHolder|ArmatureAction
+    7400144: MuzzleHolder|BulleteProcessorAction.005
+    7400146: MuzzleHolder|HandAction
+    7400148: MuzzleHolder|HandleAction
+    7400150: MuzzleHolder|kidAction
+    7400152: MuzzleHolder|MagazineHolderAction
+    7400154: MuzzleHolder|MagzineAction
+    7400156: MuzzleHolder|MuzzleAction
+    7400158: MuzzleHolder|MuzzleHolderAction
+    7400160: MuzzleHolder|ReloderAction
+    7400162: MuzzleHolder|ReloderAction.001
+    7400164: MuzzleHolder|Shoulder pickAction
+    7400166: MuzzleHolder|TrigerAction
+    7400168: MagazineHolder|AimAction
+    7400170: MagazineHolder|ArmatureAction
+    7400172: MagazineHolder|BulleteProcessorAction.005
+    7400174: MagazineHolder|HandAction
+    7400176: MagazineHolder|HandleAction
+    7400178: MagazineHolder|kidAction
+    7400180: MagazineHolder|MagazineHolderAction
+    7400182: MagazineHolder|MagzineAction
+    7400184: MagazineHolder|MuzzleAction
+    7400186: MagazineHolder|MuzzleHolderAction
+    7400188: MagazineHolder|ReloderAction
+    7400190: MagazineHolder|ReloderAction.001
+    7400192: MagazineHolder|Shoulder pickAction
+    7400194: MagazineHolder|TrigerAction
+    7400196: Shoulder pick|AimAction
+    7400198: Shoulder pick|ArmatureAction
+    7400200: Shoulder pick|BulleteProcessorAction.005
+    7400202: Shoulder pick|HandAction
+    7400204: Shoulder pick|HandleAction
+    7400206: Shoulder pick|kidAction
+    7400208: Shoulder pick|MagazineHolderAction
+    7400210: Shoulder pick|MagzineAction
+    7400212: Shoulder pick|MuzzleAction
+    7400214: Shoulder pick|MuzzleHolderAction
+    7400216: Shoulder pick|ReloderAction
+    7400218: Shoulder pick|ReloderAction.001
+    7400220: Shoulder pick|Shoulder pickAction
+    7400222: Shoulder pick|TrigerAction
+    7400224: Hand|AimAction
+    7400226: Hand|ArmatureAction
+    7400228: Hand|BulleteProcessorAction.005
+    7400230: Hand|HandAction
+    7400232: Hand|HandleAction
+    7400234: Hand|kidAction
+    7400236: Hand|MagazineHolderAction
+    7400238: Hand|MagzineAction
+    7400240: Hand|MuzzleAction
+    7400242: Hand|MuzzleHolderAction
+    7400244: Hand|ReloderAction
+    7400246: Hand|ReloderAction.001
+    7400248: Hand|Shoulder pickAction
+    7400250: Hand|TrigerAction
+    7400252: Triger|AimAction
+    7400254: Triger|ArmatureAction
+    7400256: Triger|BulleteProcessorAction.005
+    7400258: Triger|HandAction
+    7400260: Triger|HandleAction
+    7400262: Triger|kidAction
+    7400264: Triger|MagazineHolderAction
+    7400266: Triger|MagzineAction
+    7400268: Triger|MuzzleAction
+    7400270: Triger|MuzzleHolderAction
+    7400272: Triger|ReloderAction
+    7400274: Triger|ReloderAction.001
+    7400276: Triger|Shoulder pickAction
+    7400278: Triger|TrigerAction
+    7400280: Handle|AimAction
+    7400282: Handle|ArmatureAction
+    7400284: Handle|BulleteProcessorAction.005
+    7400286: Handle|HandAction
+    7400288: Handle|HandleAction
+    7400290: Handle|kidAction
+    7400292: Handle|MagazineHolderAction
+    7400294: Handle|MagzineAction
+    7400296: Handle|MuzzleAction
+    7400298: Handle|MuzzleHolderAction
+    7400300: Handle|ReloderAction
+    7400302: Handle|ReloderAction.001
+    7400304: Handle|Shoulder pickAction
+    7400306: Handle|TrigerAction
+    7400308: Magzine|AimAction
+    7400310: Magzine|ArmatureAction
+    7400312: Magzine|BulleteProcessorAction.005
+    7400314: Magzine|HandAction
+    7400316: Magzine|HandleAction
+    7400318: Magzine|kidAction
+    7400320: Magzine|MagazineHolderAction
+    7400322: Magzine|MagzineAction
+    7400324: Magzine|MuzzleAction
+    7400326: Magzine|MuzzleHolderAction
+    7400328: Magzine|ReloderAction
+    7400330: Magzine|ReloderAction.001
+    7400332: Magzine|Shoulder pickAction
+    7400334: Magzine|TrigerAction
+    9500000: //RootNode
+    13700000: kid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

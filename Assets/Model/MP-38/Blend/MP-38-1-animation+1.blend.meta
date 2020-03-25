@@ -1,0 +1,316 @@
+fileFormatVersion: 2
+guid: 50c4ac714b1d71c40bfec6419ef3861e
+timeCreated: 1497896035
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aim
+    100002: Armature
+    100004: bicep_L
+    100006: bicep_L_001
+    100008: BulleteProcessor
+    100010: Hand
+    100012: Handle
+    100014: Index_Majhkhan_L
+    100016: Index_Majhkhan_L_001
+    100018: Index_tol_L
+    100020: Index_tol_L_001
+    100022: Indexup_L
+    100024: Indexup_L_001
+    100026: Indexup_L_001_end
+    100028: Indexup_L_end
+    100030: JuraDown_L
+    100032: JuraDown_L_001
+    100034: JuraMiddle_L
+    100036: JuraMiddle_L_001
+    100038: JuraUp_L
+    100040: JuraUp_L_001
+    100042: JuraUp_L_001_end
+    100044: JuraUp_L_end
+    100046: kid
+    100048: MagazineHolder
+    100050: Magzine
+    100052: //RootNode
+    100054: Muzzle
+    100056: MuzzleHolder
+    100058: Palmmid_L
+    100060: Palmmid_L_001
+    100062: PalmUp_L
+    100064: PalmUp_L_001
+    100066: Reloder
+    100068: Shoulder_pick
+    100070: ThambD_L
+    100072: ThambD_L_001
+    100074: ThmbU_L
+    100076: ThmbU_L_001
+    100078: ThmbU_L_001_end
+    100080: ThmbU_L_end
+    100082: Triger
+    100084: UBicep_L
+    100086: UBicep_L_001
+    400000: Aim
+    400002: Armature
+    400004: bicep_L
+    400006: bicep_L_001
+    400008: BulleteProcessor
+    400010: Hand
+    400012: Handle
+    400014: Index_Majhkhan_L
+    400016: Index_Majhkhan_L_001
+    400018: Index_tol_L
+    400020: Index_tol_L_001
+    400022: Indexup_L
+    400024: Indexup_L_001
+    400026: Indexup_L_001_end
+    400028: Indexup_L_end
+    400030: JuraDown_L
+    400032: JuraDown_L_001
+    400034: JuraMiddle_L
+    400036: JuraMiddle_L_001
+    400038: JuraUp_L
+    400040: JuraUp_L_001
+    400042: JuraUp_L_001_end
+    400044: JuraUp_L_end
+    400046: kid
+    400048: MagazineHolder
+    400050: Magzine
+    400052: //RootNode
+    400054: Muzzle
+    400056: MuzzleHolder
+    400058: Palmmid_L
+    400060: Palmmid_L_001
+    400062: PalmUp_L
+    400064: PalmUp_L_001
+    400066: Reloder
+    400068: Shoulder_pick
+    400070: ThambD_L
+    400072: ThambD_L_001
+    400074: ThmbU_L
+    400076: ThmbU_L_001
+    400078: ThmbU_L_001_end
+    400080: ThmbU_L_end
+    400082: Triger
+    400084: UBicep_L
+    400086: UBicep_L_001
+    2300000: Aim
+    2300002: BulleteProcessor
+    2300004: Hand
+    2300006: Handle
+    2300008: MagazineHolder
+    2300010: Magzine
+    2300012: Muzzle
+    2300014: MuzzleHolder
+    2300016: Reloder
+    2300018: Shoulder_pick
+    2300020: Triger
+    3300000: Aim
+    3300002: BulleteProcessor
+    3300004: Hand
+    3300006: Handle
+    3300008: MagazineHolder
+    3300010: Magzine
+    3300012: Muzzle
+    3300014: MuzzleHolder
+    3300016: Reloder
+    3300018: Shoulder_pick
+    3300020: Triger
+    4300000: kid
+    4300002: BulleteProcessor
+    4300004: Reloder
+    4300006: Aim
+    4300008: Muzzle
+    4300010: MuzzleHolder
+    4300012: MagazineHolder
+    4300014: Shoulder_pick
+    4300016: Hand
+    4300018: Triger
+    4300020: Handle
+    4300022: Magzine
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: kid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 1
+      lastFrame: 6
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/bicep_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/Palmmid_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/Palmmid_L/Index_tol_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/Palmmid_L/Index_tol_L/Index_Majhkhan_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/Palmmid_L/Index_tol_L/Index_Majhkhan_L/Indexup_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/Palmmid_L/Index_tol_L/Index_Majhkhan_L/Indexup_L/Indexup_L_end
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/Palmmid_L/JuraDown_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/Palmmid_L/JuraDown_L/JuraMiddle_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/Palmmid_L/JuraDown_L/JuraMiddle_L/JuraUp_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/Palmmid_L/JuraDown_L/JuraMiddle_L/JuraUp_L/JuraUp_L_end
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/PalmUp_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/PalmUp_L/ThambD_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/PalmUp_L/ThambD_L/ThmbU_L
+        weight: 1
+      - path: Armature/bicep_L/UBicep_L/PalmUp_L/ThambD_L/ThmbU_L/ThmbU_L_end
+        weight: 1
+      - path: Armature/bicep_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/Palmmid_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/Palmmid_L_001/Index_tol_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/Palmmid_L_001/Index_tol_L_001/Index_Majhkhan_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/Palmmid_L_001/Index_tol_L_001/Index_Majhkhan_L_001/Indexup_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/Palmmid_L_001/Index_tol_L_001/Index_Majhkhan_L_001/Indexup_L_001/Indexup_L_001_end
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/Palmmid_L_001/JuraDown_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/Palmmid_L_001/JuraDown_L_001/JuraMiddle_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/Palmmid_L_001/JuraDown_L_001/JuraMiddle_L_001/JuraUp_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/Palmmid_L_001/JuraDown_L_001/JuraMiddle_L_001/JuraUp_L_001/JuraUp_L_001_end
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/PalmUp_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/PalmUp_L_001/ThambD_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/PalmUp_L_001/ThambD_L_001/ThmbU_L_001
+        weight: 1
+      - path: Armature/bicep_L_001/UBicep_L_001/PalmUp_L_001/ThambD_L_001/ThmbU_L_001/ThmbU_L_001_end
+        weight: 1
+      - path: BulleteProcessor
+        weight: 1
+      - path: BulleteProcessor/Aim
+        weight: 1
+      - path: BulleteProcessor/Hand
+        weight: 1
+      - path: BulleteProcessor/Handle
+        weight: 1
+      - path: BulleteProcessor/MagazineHolder
+        weight: 1
+      - path: BulleteProcessor/Magzine
+        weight: 1
+      - path: BulleteProcessor/Muzzle
+        weight: 1
+      - path: BulleteProcessor/MuzzleHolder
+        weight: 1
+      - path: BulleteProcessor/Reloder
+        weight: 1
+      - path: BulleteProcessor/Shoulder_pick
+        weight: 1
+      - path: BulleteProcessor/Triger
+        weight: 1
+      - path: kid
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

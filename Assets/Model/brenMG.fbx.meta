@@ -1,0 +1,147 @@
+fileFormatVersion: 2
+guid: e5b2ca92ee5619049ab44b3f8d5bc323
+timeCreated: 1493625046
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Aiming
+    100002: Body
+    100004: //RootNode
+    100006: Butt
+    100008: Butt_Front
+    100010: Clip
+    100012: Front_Handle
+    100014: Handle
+    100016: Magazine
+    100018: Magazine_Holder
+    100020: Muzzle
+    100022: Muzzle_Back
+    100024: Muzzle_Connector
+    100026: Stand
+    100028: Triger
+    400000: Aiming
+    400002: Body
+    400004: //RootNode
+    400006: Butt
+    400008: Butt_Front
+    400010: Clip
+    400012: Front_Handle
+    400014: Handle
+    400016: Magazine
+    400018: Magazine_Holder
+    400020: Muzzle
+    400022: Muzzle_Back
+    400024: Muzzle_Connector
+    400026: Stand
+    400028: Triger
+    2300000: Aiming
+    2300002: Body
+    2300004: Butt
+    2300006: Butt_Front
+    2300008: Clip
+    2300010: Front_Handle
+    2300012: Handle
+    2300014: Magazine
+    2300016: Magazine_Holder
+    2300018: Muzzle
+    2300020: Muzzle_Back
+    2300022: Muzzle_Connector
+    2300024: Stand
+    2300026: Triger
+    3300000: Aiming
+    3300002: Body
+    3300004: Butt
+    3300006: Butt_Front
+    3300008: Clip
+    3300010: Front_Handle
+    3300012: Handle
+    3300014: Magazine
+    3300016: Magazine_Holder
+    3300018: Muzzle
+    3300020: Muzzle_Back
+    3300022: Muzzle_Connector
+    3300024: Stand
+    3300026: Triger
+    4300000: Body
+    4300002: Front_Handle
+    4300004: Clip
+    4300006: Magazine
+    4300008: Magazine_Holder
+    4300010: Butt_Front
+    4300012: Muzzle_Back
+    4300014: Triger
+    4300016: Stand
+    4300018: Muzzle_Connector
+    4300020: Handle
+    4300022: Aiming
+    4300024: Muzzle
+    4300026: Butt
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

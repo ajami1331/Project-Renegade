@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MountableTurret
+  - GunPickup
+  - ActiveWeapon
+  - AmmoDisplay
+  - PivotCamera
+  - Manager
+  - GrenadePickup
+  - Damageable
+  - Enemy
+  - LevelManager
+  - FireButton
+  - ReloadButton
+  - CrossHair
+  - PlayerInfoManager
+  - VolumeSlider
+  - LookSlider
+  - ComboDisplay
+  - TouchControl
+  - GrenadeDisplay
+  - Function
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - GunLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 1c767027685d853468f296662163f5d0
+timeCreated: 1502365021
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: bicep.L
+    100004: bicep.L.001
+    100006: Index.Majhkhan.L
+    100008: Index.Majhkhan.L.001
+    100010: Index.tol.L
+    100012: Index.tol.L.001
+    100014: Indexup.L
+    100016: Indexup.L.001
+    100018: Indexup.L.001_end
+    100020: Indexup.L_end
+    100022: JuraDown.L
+    100024: JuraDown.L.001
+    100026: JuraMiddle.L
+    100028: JuraMiddle.L.001
+    100030: JuraUp.L
+    100032: JuraUp.L.001
+    100034: JuraUp.L.001_end
+    100036: JuraUp.L_end
+    100038: kid
+    100040: Palmmid.L
+    100042: Palmmid.L.001
+    100044: PalmUp.L
+    100046: PalmUp.L.001
+    100048: //RootNode
+    100050: ThambD.L
+    100052: ThambD.L.001
+    100054: ThmbU.L
+    100056: ThmbU.L.001
+    100058: ThmbU.L.001_end
+    100060: ThmbU.L_end
+    100062: UBicep.L
+    100064: UBicep.L.001
+    400000: Armature
+    400002: bicep.L
+    400004: bicep.L.001
+    400006: Index.Majhkhan.L
+    400008: Index.Majhkhan.L.001
+    400010: Index.tol.L
+    400012: Index.tol.L.001
+    400014: Indexup.L
+    400016: Indexup.L.001
+    400018: Indexup.L.001_end
+    400020: Indexup.L_end
+    400022: JuraDown.L
+    400024: JuraDown.L.001
+    400026: JuraMiddle.L
+    400028: JuraMiddle.L.001
+    400030: JuraUp.L
+    400032: JuraUp.L.001
+    400034: JuraUp.L.001_end
+    400036: JuraUp.L_end
+    400038: kid
+    400040: Palmmid.L
+    400042: Palmmid.L.001
+    400044: PalmUp.L
+    400046: PalmUp.L.001
+    400048: //RootNode
+    400050: ThambD.L
+    400052: ThambD.L.001
+    400054: ThmbU.L
+    400056: ThmbU.L.001
+    400058: ThmbU.L.001_end
+    400060: ThmbU.L_end
+    400062: UBicep.L
+    400064: UBicep.L.001
+    4300000: kid
+    9500000: //RootNode
+    13700000: kid
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: "Invalid Avatar Rig Configuration. Missing or invalid transform:\n\tRequired
+      human bone 'Hips' not found\n"
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: UBicep.L
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bicep.L
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: bicep.L.001
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: UBicep.L.001
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Armature
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: PlayerHand(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Armature
+      parentName: PlayerHand(Clone)
+      position: {x: 0.03283429, y: 4.630814, z: -4.528839}
+      rotation: {x: -0.09541245, y: -0.51201904, z: 0.1983813, w: 0.8302878}
+      scale: {x: 190.80717, y: 190.80717, z: 190.80717}
+    - name: bicep.L
+      parentName: Armature
+      position: {x: 0.0013610132, y: -0.00049243943, z: 0.004128609}
+      rotation: {x: 0.615882, y: -0.14821441, z: 0.1275189, w: 0.7631912}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+    - name: UBicep.L
+      parentName: bicep.L
+      position: {x: -1.44355e-10, y: 0.013409302, z: 3.72529e-10}
+      rotation: {x: 0.19523647, y: 0.8721544, z: -0.015646284, w: -0.44831306}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Palmmid.L
+      parentName: UBicep.L
+      position: {x: 0.00021646007, y: 0.013450485, z: -0.00012258589}
+      rotation: {x: -0.08809905, y: 0.21941915, z: 0.10831237, w: 0.9655891}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: Index.tol.L
+      parentName: Palmmid.L
+      position: {x: -0.0007640932, y: 0.003108724, z: -0.0005763996}
+      rotation: {x: -0.03474571, y: 0.0040050056, z: -0.040966127, w: 0.9985482}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Index.Majhkhan.L
+      parentName: Index.tol.L
+      position: {x: 4.842877e-10, y: 0.0016729882, z: -2.9802322e-10}
+      rotation: {x: 0.032533724, y: -0.09208799, z: 0.07089764, w: 0.99269074}
+      scale: {x: 0.9999999, y: 0.9999998, z: 0.9999997}
+    - name: Indexup.L
+      parentName: Index.Majhkhan.L
+      position: {x: 7.8231094e-10, y: 0.0023711214, z: 1.4901161e-10}
+      rotation: {x: -0.010394057, y: -0.027289078, z: -0.033331025, w: 0.9990177}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: Indexup.L_end
+      parentName: Indexup.L
+      position: {x: -0, y: 0.002056657, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JuraDown.L
+      parentName: Palmmid.L
+      position: {x: 0.00054944, y: 0.0029765957, z: 0.0004952148}
+      rotation: {x: -0.007599321, y: -0.36085322, z: -0.10878539, w: 0.9262251}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JuraMiddle.L
+      parentName: JuraDown.L
+      position: {x: -0.0000000023841857, y: 0.0020675855, z: -0.0000000011920929}
+      rotation: {x: -0.027405685, y: 0.142323, z: -0.06859411, w: 0.98706025}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: JuraUp.L
+      parentName: JuraMiddle.L
+      position: {x: -0.0000000015646219, y: 0.0018398124, z: 2.9802322e-10}
+      rotation: {x: -0.00947799, y: 0.016163658, z: 0.019169161, w: 0.9996407}
+      scale: {x: 0.99999994, y: 1, z: 0.99999976}
+    - name: JuraUp.L_end
+      parentName: JuraUp.L
+      position: {x: -0, y: 0.0020718568, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PalmUp.L
+      parentName: UBicep.L
+      position: {x: -0.00090143946, y: 0.013348143, z: -0.000015030801}
+      rotation: {x: -0.2834763, y: 0.27263775, z: 0.29744083, w: 0.8699649}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: ThambD.L
+      parentName: PalmUp.L
+      position: {x: 5.9604643e-10, y: 0.0031383692, z: -1.4901161e-10}
+      rotation: {x: 0.1280197, y: -0.12248744, z: -0.16062021, w: 0.9709835}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: ThmbU.L
+      parentName: ThambD.L
+      position: {x: 8.375183e-10, y: 0.0011278421, z: -6.449409e-10}
+      rotation: {x: -0.002748448, y: 0.0021923033, z: 0.004027477, w: 0.9999857}
+      scale: {x: 0.9999999, y: 0.99999994, z: 0.9999999}
+    - name: ThmbU.L_end
+      parentName: ThmbU.L
+      position: {x: -0, y: 0.0016518302, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: bicep.L.001
+      parentName: Armature
+      position: {x: 0.0040501566, y: -0.0033455587, z: -0.004149452}
+      rotation: {x: 0.65385514, y: 0.5283617, z: -0.44603762, w: -0.30717725}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: UBicep.L.001
+      parentName: bicep.L.001
+      position: {x: 2.9802322e-10, y: 0.01370966, z: -2.9802322e-10}
+      rotation: {x: 0.16788419, y: 0.92292804, z: -0.12924412, w: -0.3214261}
+      scale: {x: 0.99999994, y: 0.9999998, z: 1}
+    - name: Palmmid.L.001
+      parentName: UBicep.L.001
+      position: {x: 0.00013483492, y: 0.01359044, z: -0.0000546626}
+      rotation: {x: 0.06118793, y: 0.14572854, z: 0.08378505, w: 0.98386955}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: Index.tol.L.001
+      parentName: Palmmid.L.001
+      position: {x: -0.0007632876, y: 0.0032832942, z: 0.000011903494}
+      rotation: {x: -0.08068453, y: -0.083483115, z: -0.0043572863, w: 0.9932279}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+    - name: Index.Majhkhan.L.001
+      parentName: Index.tol.L.001
+      position: {x: -7.9162416e-10, y: 0.0016715485, z: -4.4703483e-10}
+      rotation: {x: 0.015121774, y: -0.030040197, z: 0.016252542, w: 0.99930215}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1}
+    - name: Indexup.L.001
+      parentName: Index.Majhkhan.L.001
+      position: {x: 0.0000000019348225, y: 0.0022976967, z: 3.352761e-10}
+      rotation: {x: 0.12854724, y: -0.034435883, z: 0.027796425, w: 0.9907155}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Indexup.L.001_end
+      parentName: Indexup.L.001
+      position: {x: -0, y: 0.0020753872, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JuraDown.L.001
+      parentName: Palmmid.L.001
+      position: {x: 0.0009623912, y: 0.0029751034, z: 0.0004222031}
+      rotation: {x: -0.009269569, y: -0.21607962, z: -0.0685366, w: 0.9739232}
+      scale: {x: 1, y: 1, z: 1}
+    - name: JuraMiddle.L.001
+      parentName: JuraDown.L.001
+      position: {x: -8.5681673e-10, y: 0.0019798218, z: -1.4901161e-10}
+      rotation: {x: -0.044395823, y: -0.014799802, z: 0.067716576, w: 0.99660647}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: JuraUp.L.001
+      parentName: JuraMiddle.L.001
+      position: {x: 4.842877e-10, y: 0.0022472457, z: 0}
+      rotation: {x: 0.014419558, y: 0.030660082, z: -0.05819758, w: 0.99773}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: JuraUp.L.001_end
+      parentName: JuraUp.L.001
+      position: {x: -0, y: 0.0018518378, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: PalmUp.L.001
+      parentName: UBicep.L.001
+      position: {x: -0.00083919044, y: 0.013619407, z: 0.00018047071}
+      rotation: {x: 0.08273117, y: 0.14738993, z: 0.34618112, w: 0.9228166}
+      scale: {x: 1, y: 0.9999999, z: 1}
+    - name: ThambD.L.001
+      parentName: PalmUp.L.001
+      position: {x: -5.5879353e-11, y: 0.0030749273, z: 8.9406965e-10}
+      rotation: {x: -0.037402343, y: -0.11346618, z: -0.17045635, w: 0.97809565}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: ThmbU.L.001
+      parentName: ThambD.L.001
+      position: {x: 5.62286e-10, y: 0.0011962916, z: -5.401671e-10}
+      rotation: {x: 0.08972907, y: -0.014441402, z: -0.06569244, w: 0.99369246}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: ThmbU.L.001_end
+      parentName: ThmbU.L.001
+      position: {x: -0, y: 0.0015828214, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: kid
+      parentName: PlayerHand(Clone)
+      position: {x: 0.032834593, y: 4.630815, z: -4.5288386}
+      rotation: {x: -0.7071067, y: 0.000000018584906, z: 0.000000025664862, w: 0.7071068}
+      scale: {x: 297.64868, y: 297.64856, z: 297.64862}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
